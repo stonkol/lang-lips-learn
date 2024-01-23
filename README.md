@@ -23,9 +23,9 @@
 1. lua.........2023
 1. C...........2023
 1. LaTeX.......2024 Jan
-1. ipynb.......2024 Jan
+1. JupyterNB...2024 Jan
 1. yml.........2024 Jan 22
-1. git.submdl..2024 Jan 23
-1. ....
+1. gitmodules..2024 Jan 23
+1. .
 1. Go..........due
 1. ts..........due

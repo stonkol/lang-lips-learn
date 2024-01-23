@@ -7,9 +7,6 @@
 [submodule "html_css_js/jonas-js-course"]
 	path = html_css_js/jonas-js-course
 	url = https://stonkol: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@github.com/stonkol/complete-javascript-course
-[submodule "victor-css"]
-	path = victor-css
-	url = https://stonkol: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@github.com/stonkol/udemy-victor-css
 [submodule "html_css_js/victor-css"]
 	path = html_css_js/victor-css
 	url = https://stonkol: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@github.com/stonkol/udemy-victor-css
