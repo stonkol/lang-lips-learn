@@ -24,8 +24,9 @@
 1. C...........2023
 1. LaTeX.......2024 Jan
 1. JupyterNB...2024 Jan
-1. yml.........2024 Jan 22
-1. gitmodules..2024 Jan 23
+1. yml.........2024 Jan
+1. gitmodules..2024 Jan
+1. config......2024 Jan
 
 #### ......in progress.........
 
